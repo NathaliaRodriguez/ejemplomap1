@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clientes>
+  <Key id="3" />
+  <cliente nombre="1130" identificacióm="Uao" />
+  <cliente nombre="1131" identificacióm="Tigo" />
+  <cliente nombre="1132" identificacióm="Sura" />
+  <cliente nombre="1133" identificacióm="Herbalife" />
+  <Key id="6" />
+  <cliente nombre="1136" identificacióm="Campo" />
+  <cliente nombre="1137" identificacióm="Casa" />
+  <cliente nombre="1138" identificacióm="Emcali" />
+  <cliente nombre="1139" identificacióm="Javeriana" />
+</clientes>
